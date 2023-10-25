@@ -1,5 +1,5 @@
 {
-  "name": "gitbook-plugin-richquotes",
+  "name": "gitbook-plugin-obsidian-code-admonition",
   "description": "Transform annoted quotes to notes in GitBook",
   "main": "index.js",
   "version": "0.0.9",
